@@ -1,5 +1,5 @@
 - **greetings**, I’m @gydean
-- **I’m interested in**...uh stuff. im a cybersecurity student just looking to learn.
+- **I’m interested in**...uh stuff. im a freshie cybersecurity student just looking to learn.
 - **I’m currently learning**...python. so far. more things soon hopefully.
 - **I’m looking to collaborate on**...nothing yet???
 - **How to reach me**...you don't. not yet at least.
